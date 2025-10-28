@@ -34,7 +34,7 @@ interface MenuItem {
 const mobileMenuData: MenuItem[] = [
     {
         id: 1,
-        title: "Demo",
+        title: "Frogs",
         link: "/",
         megaMenu: true,
         columns: [
@@ -223,3 +223,4 @@ const mobileMenuData: MenuItem[] = [
 ];
 
 export default mobileMenuData;
+
